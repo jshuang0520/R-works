@@ -1,8 +1,8 @@
-# R-works
+## R-works
 
-簡介
+### 簡介
 
-這是[黃聖翔](https://www.facebook.com/profile.php?id=100001348802783)用R做出的檔案
+這是[黃聖翔](https://www.facebook.com/profile.php?id=100001348802783)用####程式語言R 做出的檔案
 
 ### 大綱
 
