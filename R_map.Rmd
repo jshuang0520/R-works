@@ -1,0 +1,43 @@
+---
+title: "用R繪製地圖"
+author: "黃聖翔 Huang Sheng-Hsiang"
+date: "2017年9月4日"
+output: html_document
+---
+
+###這是我的大學系館位置 : 
+```{r, echo = FALSE, warning=FALSE, error=FALSE}
+library(magrittr)
+library(leaflet)
+
+hello_map <- leaflet() %>%
+   setView(lng = 121.19258, lat = 24.9680, zoom = 16) %>%
+   addProviderTiles("OpenStreetMap.France") %>%
+   addProviderTiles("HikeBike.HikeBike",
+                    options = providerTileOptions(opacity = 1)) %>%
+   addMarkers(lng = 121.19258, lat = 24.9708, popup = "<a href=\"http://www.ncu.edu.tw/\">中央大學</a> <a href=\"http://www.math.ncu.edu.tw/math/news/news_select.php\">數學系 鴻經館</a>") %>%
+   addMarkers(lng = 121.195051, lat = 24.968369, popup = "中央大學正門 行政大樓")
+
+
+hello_map
+```
+
+
+
+###之後我在這裡學程式 : 
+```{r, echo = FALSE, warning=FALSE, error=FALSE}
+library(magrittr)
+library(leaflet)
+
+
+hello_map <- leaflet() %>%
+   addTiles() %>%
+   setView(lng = 121.539466, lat = 25.018326, zoom = 17) %>%
+   addMarkers(lng = 121.541566, lat = 25.019526, popup = "<a href=\"http://train.csie.ntu.edu.tw/train/\">台大資工 系統訓練班</a>") %>%
+   addMarkers(lng = 121.539366, lat = 25.017326, popup = "台灣大學")
+
+hello_map
+```
+
+
+
