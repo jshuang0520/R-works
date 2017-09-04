@@ -7,6 +7,6 @@
 ### 大綱
 
 
-- [地理資訊的繪圖（Leaflet）](https://yaojenkuo.github.io/r_programming/ch13)
+- [地理資訊的繪圖（Leaflet）](https://jshuang0520.github.io/R-works/R_map.html)
 
 
