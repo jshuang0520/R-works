@@ -12,5 +12,5 @@
 
 網頁爬蟲
 
-- [R crawler - The Walking Dead_script_S1E1](https://jshuang0520.github.io/R-works/2017.09.25_R_crawler___The_Walking_Dead_script_S1E1.html)
+- [R crawler - The Walking Dead script : S1E1](https://jshuang0520.github.io/R-works/2017.09.25_R_crawler___The_Walking_Dead_script_S1E1.html)
 - [R crawler - The Walking Dead script : S1, E1~E5](https://jshuang0520.github.io/R-works/2017.09.28_R_crawler___The_Walking_Dead_script_S1_E1~5.html)
