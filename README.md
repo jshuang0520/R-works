@@ -17,4 +17,7 @@
 - [R crawler - 2017.09.29 some job descriptions from 104]
 - [R crawler - 2017.10.02 some job descriptions from 104](https://jshuang0520.github.io/R-works/2017.10.02_104_data_analysist.html)
 
-- [R crawler - 2017.10.15](https://jshuang0520.github.io/R-works/2017.10.15_LFP.html) [ggplot](https://jshuang0520.github.io/R-works/2017.10.16_ggplot2_2017.09.01_10.16_LFP.png) [table](https://github.com/jshuang0520/R-works/blob/master/2017.10.16_table_2017.09.01_10.16_LFP.png) [barplot](https://jshuang0520.github.io/R-works/2017.10.16_barplot_2017.09.01_10.16_LFP.png)
+- [R crawler - 2017.10.15](https://jshuang0520.github.io/R-works/2017.10.15_LFP.html) 
+[ggplot](https://jshuang0520.github.io/R-works/2017.10.16_ggplot2_2017.09.01_10.16_LFP.png) 
+[table](https://github.com/jshuang0520/R-works/blob/master/2017.10.16_table_2017.09.01_10.16_LFP.png) 
+[barplot](https://jshuang0520.github.io/R-works/2017.10.16_barplot_2017.09.01_10.16_LFP.png)
