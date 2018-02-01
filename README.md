@@ -24,4 +24,4 @@
 串接MySQL資料庫
 
 
-- [R-SQL - 串接world資料庫中的country資料表](https://jshuang0520.github.io/R-works/2018.01.30_sql-r-train.html)|[Rmd](https://jshuang0520.github.io/R-works/2018.01.30_sql-r-train.Rmd)
+- [R-SQL - 串接world資料庫中的country資料表](https://jshuang0520.github.io/R-works/2018.01.30_sql-r-train.html)|[ Rmd ](https://github.com/jshuang0520/R-works/blob/master/2018.01.30_sql-r-train.Rmd)
