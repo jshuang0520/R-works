@@ -10,6 +10,7 @@
 
 - [地理資訊的繪圖（Leaflet）](https://jshuang0520.github.io/R-works/R_map.html)
 
+
 網頁爬蟲
 
 - [R crawler - The Walking Dead script : S1E1]
@@ -19,3 +20,8 @@
 
 - [R crawler - 2017.10.15 ](https://jshuang0520.github.io/R-works/2017.10.15_LFP.html)|[ ggplot ](https://jshuang0520.github.io/R-works/2017.10.16_ggplot2_2017.09.01_10.16_LFP.png)|[ table ](https://github.com/jshuang0520/R-works/blob/master/2017.10.16_table_2017.09.01_10.16_LFP.png)|[ barplot ](https://jshuang0520.github.io/R-works/2017.10.16_barplot_2017.09.01_10.16_LFP.png)
 
+
+串接MySQL資料庫
+
+
+- [R-SQL - 串接world資料庫中的country資料表](https://jshuang0520.github.io/R-works/2018.01.30 sql-r-train.html)
